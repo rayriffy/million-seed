@@ -1,0 +1,18 @@
+{
+  "name": "million-seed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:rayriffy/million-seed.git",
+  "author": "Phumrapee Limpianchop <contact@rayriffy.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "@types/puppeteer": "^3.0.1",
+    "typescript": "^4.0.2"
+  },
+  "dependencies": {
+    "commander": "^6.1.0",
+    "cwait": "^1.1.2",
+    "puppeteer": "^5.2.1"
+  }
+}
